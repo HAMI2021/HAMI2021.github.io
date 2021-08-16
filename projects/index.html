@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAMIC Lab / projects
+title: HAMI Lab / projects
 categories:
  - projects
 ---
@@ -14,46 +14,12 @@ categories:
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="media">
+					<div class="project-image" >
+						<img src="../images/projects/shinyapp.png" width="180px"/>
+					</div>
 					<div class="media-body">
 						<div class="title media-heading">
 							<a href="{{ project.url }}" class="off">{{ project.title }}</a>
-						</div>
-						<p>
-						<div class="smallhead">
-							{{ project.date | date: "%-d %b %Y" }}
-							{% if project.author %}
-							by <a class="off" href="
-                {% for member in site.categories.team %}
-                  {% if member.title == project.author %}
-                    {{ member.url }}
-                  {% endif %}
-                {% endfor %}
-              ">
-              {{ project.author }}
-              </a>
-							{% endif %}
-              {% if project.authors %}
-              by
-              <a class="off" href="
-                {% for member in site.categories.team %}
-                  {% if member.title == project.authors.first %}
-                    {{ member.url }}
-                  {% endif %}
-                {% endfor %}
-              ">
-              {{ project.authors.first }}
-              </a>
-              and
-              <a class="off" href="
-                {% for member in site.categories.team %}
-                  {% if member.title == project.authors.last %}
-                    {{ member.url }}
-                  {% endif %}
-                {% endfor %}
-              ">
-              {{ project.authors.last }}
-              </a>
-              {% endif %}
 						</div>
 					</div>
 				</div>

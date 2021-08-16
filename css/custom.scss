@@ -148,9 +148,13 @@ b, strong {
 /* headings */
 
 .bigtitle {
-	font-size: 60px;
+	font-size: 35px;
 	line-height: 55px;
-	font-weight: 100;
+	font-weight: 400;
+	background: linear-gradient(to right, #0F5FAD, #20ABC6);
+	-webkit-background-clip: text;
+	background-clip: text;
+    color: transparent;
 	/* Museo */
 }
 
@@ -176,9 +180,9 @@ b, strong {
 }
 
 .smallhead {
-	font-size: 19px;
+	font-size: 25px;
 	font-weight: 300;
-	line-height: 23px;
+	// line-height: 23px;
 	/* Museo */
 }
 
@@ -398,4 +402,8 @@ blockquote {
     -webkit-transform: scale(1.0);
     opacity: 0;
   }
+}
+
+.project-image {
+	margin-right: 20px;
 }

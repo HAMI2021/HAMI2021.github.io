@@ -10,7 +10,7 @@ image: /images/team/Shunzhou-JIANG.jpeg
 B.S. Statistical Science, The Chinese University of Hong Kong (Shenzhen), 2018 - present
 
 ### Self Introduction
-I am a junior student in the School of Data Science, The Chinese University of Hong Kong, Shenzhen, majoring in Statistical Science. My research interests focus on queueing models, statistics and machine learning. My work in HAMIC Lab mainly lies in data analysis regarding patient flow and queueing network modelling. My personal interests include singing, playing badminton, etc.
+I am a junior student in the School of Data Science, The Chinese University of Hong Kong, Shenzhen, majoring in Statistical Science. My research interests focus on queueing models, statistics and machine learning. My work in HAMI Lab mainly lies in data analysis regarding patient flow and queueing network modelling. My personal interests include singing, playing badminton, etc.
 
 ### Research Interest
 Queueing Models, Statistics, Machine Learning

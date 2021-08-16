@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAMIC HOME
+title: HAMI HOME
 categories:
  - home
 ---
@@ -9,22 +9,7 @@ categories:
 	<div class="col-lg-12">
 		<object class="pull-left biglogo" data="/images/logo.svg" type="image/svg+xml"></object>
 		<div class="bigtitle logobox">
-			HAMIC
-		</div>
-	</div>
-</div>
-
-<div class="bigspacer"></div>
-
-<div class="row">
-	<div class="col-lg-12">
-		<div class="smallhead">
-      <p>
-        这是一段HTML
-      </p>
-      <p>
-        这也是一段HTML
-      </p>
+			&#12288;Healthcare Analysis, Management, and Information
 		</div>
 	</div>
 </div>
@@ -37,6 +22,7 @@ categories:
 		<div class="head">
 			<a class="off" href="/blog/">Recent posts</a>
 		</div>
+		<div class="spacer"></div>
 		<div class="spacer"></div>
 	</div>
 </div>
@@ -110,6 +96,7 @@ categories:
 			<a class="off" href="/papers/">Recent papers</a>
 		</div>
 		<div class="spacer"></div>
+		<div class="spacer"></div>
 	</div>
 </div>
 
@@ -142,6 +129,7 @@ categories:
 			<a class="off" href="/projects/">Active projects</a>
 		</div>
 		<div class="spacer"></div>
+		<div class="spacer"></div>
 	</div>
 </div>
 
@@ -173,33 +161,3 @@ categories:
 </div>
 
 <div class="spacer"></div>
-
-<div class="row">
-	<div class="col-lg-12">
-		<div class="head">
-			Misc
-		</div>
-		<div class="spacer"></div>
-	</div>
-</div>
-
-<div class="row">
-	<div class="col-lg-12 reduced-gutter">
-		<div class="pad-left">
-			<ul class="list-inline">
-				{% for page in site.categories.misc %}
-				<li class="footernav list-inline-item">
-					<i class="fa fa-angle-right"></i> <a class="off" href="{{ page.url }}">{{ page.title }}</a>
-				</li>
-				{% endfor %}
-				<li class="footernav list-inline-item">
-					<i class="fa fa-angle-right"></i> <a class="off" href="/talks/">Talks</a>
-				</li>
-				<li class="footernav list-inline-item">
-					<i class="fa fa-angle-right"></i> <a class="off" href="http://www.fredhutch.org/">Fred Hutch</a>
-				</li>
-			</ul>
-		</div>
-		<div class="spacer"></div>
-	</div>
-</div>
