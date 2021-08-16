@@ -1,6 +1,6 @@
 name: HAMIC
 description: A attempted construction from SIKAI
-url: ""
+url: "https://hami2021.github.io/"
 
 markdown: kramdown
 permalink: /:categories/:title/
