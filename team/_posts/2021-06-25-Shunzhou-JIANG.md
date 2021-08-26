@@ -3,7 +3,8 @@ layout: member
 title: Shunzhou, JIANG
 email: 118010117@link.cuhk.edu.cn
 github: Shunzhou-Jiang
-image: /images/team/Shunzhou-JIANG.jpeg
+image: /images/team/Shunzhou-JIANG.png
+alumni: student
 ---
 
 ### Education Background

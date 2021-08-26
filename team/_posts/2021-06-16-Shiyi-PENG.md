@@ -5,6 +5,7 @@ position: Assistant Professor
 github: none
 image: /images/team/Pengyi-SHI.jpeg
 cv: /pdfs/team/Pengyi Shi_CV_April2021.pdf
+alumni: professor
 ---
 
 ### About me

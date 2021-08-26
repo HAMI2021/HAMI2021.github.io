@@ -4,6 +4,7 @@ title: Xinyun, CHEN
 position: Assistant Professor
 website: https://myweb.cuhk.edu.cn/chenxinyun
 image: /images/team/Xinyun-CHEN.jpeg
+alumni: professor
 ---
 
 ### Education Background

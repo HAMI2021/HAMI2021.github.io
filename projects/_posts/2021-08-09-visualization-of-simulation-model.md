@@ -3,6 +3,7 @@ layout: project
 title: Visualization of Simulation Model, Schedule, and Data
 name: ShinyApp Website Link
 link: https://hamixcuhksz.shinyapps.io/hospital_queueing_system/
+image: /images/projects/shinyapp.png
 ---
 
 ### Introduction

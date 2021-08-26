@@ -4,6 +4,7 @@ title: Sikai, CHENG
 position: Programmer
 github: SIKAI-C
 image: /images/team/Sikai-CHENG.jpeg
+alumni: student
 ---
 
 ### Education Background

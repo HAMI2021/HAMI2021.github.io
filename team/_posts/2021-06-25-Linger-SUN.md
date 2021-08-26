@@ -4,6 +4,7 @@ title: Linger, SUN
 email: lingersun@link.cuhk.edu.cn
 github: Euphemia111
 image: /images/team/Linger-SUN.jpeg
+alumni: student
 ---
 
 ### Education Background

@@ -4,6 +4,7 @@ title: Guangrui, XUE
 github: Guangrui-Xue
 email: guangruixue@link.cuhk.edu.cn
 image: /images/team/Guangrui-XUE.png
+alumni: student
 ---
 
 ### Education Background

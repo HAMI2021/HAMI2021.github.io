@@ -4,6 +4,7 @@ title: Xiaoyue, CHEN
 email: 118020008@link.cuhk.edu.cn
 github: Xiaoyue-Chen
 image: /images/team/Xiaoyue-CHEN.jpeg
+alumni: student
 ---
 
 ### Education Background
