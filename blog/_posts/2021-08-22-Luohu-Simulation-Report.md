@@ -1,8 +1,8 @@
 ---
-layout: paper
-title: A High-Fidelity, Machine-Learning Enhanced Queueing Network Simulation Model For Hospital Ultrasound Operations
-authors: Yihan Pan, Zhenghang Xu, Jin Guang, Xinyun Chen, J.G. Dai, Chengwenjian Wang, Xuanming Zhang, Jingjing Sun, Pengyi Shi, Yichuan Ding, Song Wu, Kai Yang, Hongxin Pan
-pdf: /pdfs/papers/Luohu_Simulation_Report.pdf
+layout: post
+date: Sun Aug 29
+title: Test Blog
+name: Test
 image: /images/papers/LuohuSimulation.png
 ---
 
