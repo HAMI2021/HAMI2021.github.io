@@ -12,7 +12,19 @@ categories:
 	<div class="smallspacer"></div>
 	<i class="fa fa-external-link fa-fw"></i>
 	<a class="off" href="{{ page.link }}">{{ page.link }}</a>
+  <div class="bigspacer"></div>
 </div>
+{% if page.pdf %}
+  <div class="smallhead">
+    PDF
+  </div>
+  <div class="pad-left note">
+    <div class="smallspacer"></div>
+    <i class="fa fa-file-text-o fa-fw"></i>
+    <a class="off" href="{{ page.pdf }}">{{ page.pdf | split: '/' | last }}</a>
+  </div>
+  <div class="bigspacer"></div>
+{% endif %}
 <div class="bigspacer"></div>
 <div class="bigspacer"></div>
 <div class="bigspacer"></div>
