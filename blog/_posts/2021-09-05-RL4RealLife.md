@@ -3,7 +3,6 @@ layout: post
 date: Sun Sep 05
 title: Paper Accepted in 2021 Reinforcement Learning for Real Life Spotlight Session
 name: Paper Accepted in 2021 Reinforcement Learning for Real Life Spotlight Session
-image: /images/blog/RL4RealLife/screen.png
 ---
 
 The joint work of Professer Xinyun Chen, Pengyi Shi and Our PhD student
@@ -13,7 +12,7 @@ for Real life Workshop and presented in the spotlight session on July
 23, 2021.
 
 ![Presentation. Recording can be found at
-https://slideslive.com/38964693/spotlight](/images/blog/RL4RealLife/screen.png){width="0.8\\linewidth"}
+https://slideslive.com/38964693/spotlight](/images/blog/RL4RealLife/screen.png)
 
 Reinforcement learning (RL) is a general learning, predicting, and
 decision making paradigm and applies broadly in many disciplines,
@@ -26,7 +25,7 @@ problem to prevent patients' readmission with intervention followup call
 to increase patient's adherence to medical advice.
 
 ![Illustrate of 30-day post-discharge intervention
-problem.](/images/blog/RL4RealLife/hospital.png){width="0.8\\linewidth"}
+problem.](/images/blog/RL4RealLife/hospital.png)
 
 To tackle the small data issue and increase sample efficiency in
 personalized intervention problem, we propose a data-pooling RL
@@ -35,7 +34,7 @@ post-discharge intervention management, with and without budget
 constraints, using real hospital data.
 
 ![Illustrate of the data-pooling
-algorithm.](/images/blog/RL4RealLife/algorithm2.png){width="0.7\\linewidth"}
+algorithm.](/images/blog/RL4RealLife/algorithm2.png)
 
 The following figure shows the practical benefits of data-pooling
 compared to other benchmarks with data collected in an Asian hospital
@@ -47,7 +46,7 @@ for the 21 patient classes pooling with 19013 historical samples of year
 benchmarks, especially in the first 10 iterations.
 
 ![Total Regret of 21 patient
-classes](/images/blog/RL4RealLife/emp_regret.png){width="0.6\\linewidth"}
+classes](/images/blog/RL4RealLife/emp_regret.png)
 
 Moreover, the proposed method can be extended to solve the multipatient
 problem with a finite total budget for intervention, which is a common
@@ -60,7 +59,7 @@ we consider that there are at most $N_t$ patients can be followed up.
 
 ![Total regret under different level of budget constraint estimated via
 1000 rounds of simulation over 8
-weeks.](/images/blog/RL4RealLife/BatchVarying_Nt.png){width="0.6\\linewidth"}
+weeks.](/images/blog/RL4RealLife/BatchVarying_Nt.png)
 
 The above figure shows that the result of data-Pooling method still
 outperforms the benchmarks and closest to that of the true value. Base
