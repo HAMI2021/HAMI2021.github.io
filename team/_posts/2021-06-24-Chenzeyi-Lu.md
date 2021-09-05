@@ -1,7 +1,6 @@
 ---
 layout: member
 title: Chenzeyi, Lu
-position: Research Assistant
 email: 119010215@link.cuhk.edu.cn
 image: /images/team/Chenzeyi-LU.png
 alumni: student
